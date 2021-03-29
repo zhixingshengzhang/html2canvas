@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+# [1.0.0](https://github.com/niklasvh/html2canvas/compare/v1.0.0-rc.7...v1.0.0) (2021-03-29)
+
+
+### ci
+
+* update docs publish action (#2451) ([7222aba](https://github.com/niklasvh/html2canvas/commit/7222aba1b42138c3d466525172411b3d9869095f)), closes [#2451](https://github.com/niklasvh/html2canvas/issues/2451)
+
+### fix
+
+* opacity with overflow hidden (#2450) ([82b7da5](https://github.com/niklasvh/html2canvas/commit/82b7da558c342e7f53d298bb1d843a5db86c3b21)), closes [#2450](https://github.com/niklasvh/html2canvas/issues/2450)
+
+
+
 # [1.0.0-rc.7](https://github.com/niklasvh/html2canvas/compare/v1.0.0-rc.6...v1.0.0-rc.7) (2020-08-09)
 
 
